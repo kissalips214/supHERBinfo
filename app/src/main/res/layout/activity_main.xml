@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="200dp"
+                android:src="@drawable/logo2"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:src="@drawable/akapulko"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: AKAPULKO"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Cassia alata"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/ampalaya"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: AMPALAYA"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Momordica charantia"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/bawang"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: BAWANG"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Allium sativum"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/bayabas"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: BAYABAS"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Psidium guajava"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/lagundi"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: LAGUNDI"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Vitex negundo"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/niyogniyogan"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: NIYOG NIYUGAN"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Quisqualis indica"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/sambong"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: SAMBONG"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Blumea balsamifera"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/tsaanggubat"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: TSAANG GUBAT"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Ehretia microphylla"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/ulasimangbato"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: ULASIMANG BATO"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Peperomia pellucida"
+                android:gravity="center"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="300dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/yerbabuena"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Name: YERBA BUENA"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textSize="20sp"
+                android:text="Scientific Name: Clinopodium douglasii"
+                android:gravity="center"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
